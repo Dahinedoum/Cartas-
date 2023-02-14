@@ -1,0 +1,25 @@
+@page{
+    size: A4;
+}
+
+body {
+    margin: 1in;
+    font-family: 'Zilla Slab', serif;
+    font-size: 12pt;
+    line-height: 1.5;
+    margin:3cm;
+    
+}
+
+#ADRESS{
+        float: right;
+        max-width: 50%;
+        margin-left: 480px;
+        text-align: right;
+      }
+      
+    
+        
+
+
+    
