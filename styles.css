@@ -8,6 +8,10 @@ body {
     font-size: 12pt;
     line-height: 1.5;
     margin:3cm;
+    color:black;
+    font-weight:200;
+    quotes: "«" "»" "‹" "›";
+    hyphens: auto;
     
 }
 
